@@ -1,2 +1,2 @@
 # SQL-Queries
-for Sakila Database
+for Sakila Database provided by MySQL
